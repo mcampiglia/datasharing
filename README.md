@@ -1,3 +1,8 @@
+Forked from original to comply with The Data Scientist's Toolbox course project
+===========
+
+Original repo: https://github.com/jtleek/datasharing
+
 How to share data with a statistician
 ===========
 
